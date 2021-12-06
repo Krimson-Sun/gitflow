@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Krimson
+=======
+Arina
+>>>>>>> origin/feature/listArina
